@@ -32,6 +32,8 @@ In order to build the machine learning model first a spark Session is created, a
 # Results
 The Random Forest Classifier could proedit churn on the test dataset with excellent accurecy and the f1-score was around 96%. The model consisted of a good number of features that extracted as much relevant data to the problem in hand as possible. Which helped to build a useful model for churn prediction.  
 
+#Blog Post
+To read a blog post about the project please check the following blog post: [Spark for Predicting Users Churn](https://medium.com/@laraquadan/spark-for-predicting-users-churn-c93dc0ee9de6)
 
 # Aknowledgment
 This project is a capstone project of Udacity Data Science Nanodegree program. Special thanks to all Udacity team, for the work on this Nanodegree program. They push you to learn and grow with every lesson and project. For this project the Apache spark course by Udacity was a great help.
